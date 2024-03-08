@@ -1,40 +1,19 @@
-* {
-   margin: 0;
+body{
+    background-color: #1695a3;
+    color:#ffff;
+
 }
 
-body {
-   margin-top: 10px;
-}
-
-header {
-   background-color: #ff09ff;
-   color: white;
-   padding: 15px;
-   width: 50%;
-   margin: auto;
-   text-align: center;
-}
-
-h2, h3 {
- 
-}
-
-section {
-   display: none;
-   width: 100%;
-   margin-top: 10px;
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: center;
-}
-
-.one {
-   margin: 5px;
-}
 p{
- text-align: center;
+    color:#eb7f00;
+    font-size: 40px;
+    font-weight: bold;
 }
 
+h3{
+    text-align: center;
+}
 
-
+a{
+    text-decoration: none;
+}
